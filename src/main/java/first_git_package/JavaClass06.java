@@ -1,7 +1,4 @@
 package first_git_package;
 
-public class JavaClass03 {
-
-
-
+public class JavaClass06 {
 }
